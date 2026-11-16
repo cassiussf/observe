@@ -1,0 +1,1 @@
+{"name":"observe","owner":{"name":"Cassius Tekin"},"plugins":[{"name":"observe","source":"./plugins/observe","description":"Always on: the agent learns every page it visits or is shown (each button and where it leads) and next time goes straight to the right address."}]}
